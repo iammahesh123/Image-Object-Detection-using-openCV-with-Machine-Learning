@@ -1,1 +1,1 @@
-# Object-Detection using Ml
+# Object-Detection using Machine Learning
