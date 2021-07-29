@@ -26,4 +26,11 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 
 <h2>Sample Output</h2>
 
-<img src="https://github.com/iammahesh123/Image-Object-Detection-using-openCV-with-Machine-Learning/blob/main/Test1_Output.png"/>
+<img src="https://github.com/iammahesh123/Image-Object-Detection-using-openCV-with-Machine-Learning/blob/main/output2.png"/>
+
+<h2>Execution </h2>
+<video width="320" height="240" controls>
+  <source src="m" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
